@@ -1,6 +1,6 @@
 {
   "name": "npm-react-based-source-code",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/MyComponent.js",
   "scripts": {
