@@ -1,6 +1,6 @@
 {
   "name": "npm-react-based-source-code",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel src --out-dir lib --copy-files",
