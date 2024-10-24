@@ -1,6 +1,8 @@
 
 import React from "react";
-import './css/global.css';  // Adjust path as necessary
+import './css/global.css'
+
+
 
 const MyComponent = () => {
     return (
