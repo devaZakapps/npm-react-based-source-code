@@ -2,6 +2,7 @@
   "name": "npm-react-based-source-code",
   "version": "1.0.22",
   "main": "lib/index.js",
+    "sideEffects": false,
   "scripts": {
     "build": "babel src --out-dir lib --copy-files",
     "build:css": "postcss src/styles.css -o lib/styles.css"
